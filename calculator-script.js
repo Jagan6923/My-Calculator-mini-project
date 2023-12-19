@@ -15,7 +15,7 @@ function calculate() {
 }
 
 function redirectToAnotherPage() {
-    window.location.href = 'black.html';
+    window.location.href = 'Off.html';
 }
 
 function redirectToAnotherPage1() {
